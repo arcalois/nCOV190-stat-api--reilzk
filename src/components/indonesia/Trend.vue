@@ -1,7 +1,6 @@
 <template>
     <div class="card">
-        <div class="card-header">
-            Tren Indonesia
+        <div class="card-header">Local Trend
         </div>
         <div class="card-body">
             <trend
