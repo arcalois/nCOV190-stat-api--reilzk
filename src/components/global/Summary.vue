@@ -3,7 +3,7 @@
         <img v-show="isImageLoaded" class="img-fluid" alt="Corona logo" :src="urlImageSummary" @load="onImgLoad">
         <h1 v-if="!isImageLoaded"><strong>{{ title }}</strong></h1>
         <p>
-          Serving data from John Hopkins University CSSE as a JSON API via <a href="https://covid19.mathdro.id/api">mMathdroid API</a>
+          Serving data from John Hopkins University CSSE as a JSON API via <a href="https://covid19.mathdro.id/api">Mathdroid API</a>
         </p>
     </div>
 </template>
