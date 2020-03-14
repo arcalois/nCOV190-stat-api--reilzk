@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 const API_URL = 'https://api.github.com';
-const REPO_OWNER = 'pararang';
-const REPO_NAME = 'vue-covid';
+const REPO_OWNER = 'arcalois';
+const REPO_NAME = 'nCOV190-stat-api--reilzk';
 
 export class APIServiceGithub {
 
