@@ -31,11 +31,11 @@
             return {
                 detailConfirmedGlobal: [],
                 columns: [
-                    { field: 'location', title: 'Lokasi' },
-                    { field: 'confirmed', title: 'Terinfeksi' },
-                    { field: 'deaths', title: 'Meninggal' },
-                    { field: 'recovered', title: 'Pulih' },
-                    { field: 'lastUpdate', title: 'Pembaharuan' }
+                    { field: 'location', title: 'Location' },
+                    { field: 'confirmed', title: 'Confirmed' },
+                    { field: 'deaths', title: 'Death' },
+                    { field: 'recovered', title: 'Recovered' },
+                    { field: 'lastUpdate', title: 'Last Update' }
                 ],
             };
         },
