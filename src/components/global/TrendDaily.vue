@@ -1,7 +1,7 @@
 <template>
     <div class="card">
         <div class="card-header">
-            Tren Kasus Global
+           Trend daily case
         </div>
 <!--        <div class="card-body">-->
 <!--                    <trend-->
