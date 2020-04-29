@@ -1,5 +1,10 @@
 # vue-covid
 
+### Initialization first before running node.JS to your automation platform
+```
+npm init
+```
+
 ## Project setup
 ```
 npm install
